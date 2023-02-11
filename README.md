@@ -1,4 +1,4 @@
-irBnB Clone Project
+AirBnB Clone Project
 
 
 ## Project Description
